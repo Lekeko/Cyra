@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cyra:old_cyrus_axe"
+  },
+  "addition": {
+    "item": "cyra:cyra_gem"
+  },
+  "result": {
+    "item": "cyra:cyrus_axe"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #n",
+    " /B",
+    "B  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "/": {
+      "item": "minecraft:blaze_rod"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "cyra:old_cyrus_axe",
+    "count": 1
+  }
+}

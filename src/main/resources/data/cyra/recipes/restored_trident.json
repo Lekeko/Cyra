@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "cyra:old_cyra_lord_trident"
+  },
+  "addition": {
+    "item": "cyra:cyra_gem"
+  },
+  "result": {
+    "item": "cyra:cyra_lord_trident"
+  }
+}

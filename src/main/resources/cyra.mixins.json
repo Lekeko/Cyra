@@ -4,9 +4,13 @@
 	"package": "com.keko.Cyra.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-
   ],
 	"client": [
+    "FallDamageMixin",
+    "ItemRendererAccsesor",
+    "ItemRendererMixin",
+    "ModelLoaderMixin",
+    "CyraRiptideMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
